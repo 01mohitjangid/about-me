@@ -1,3 +1,11 @@
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=01mohitjangid&label=Profile%20views&color=0e75b6&style=flat" alt="01mohitjangid" /> </p>
+
+<p align="center">
+  <a href="https://github.com/aryanjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer;Editor+and+Student;Good+in+DSA;Competitive+Programmer"></a>
+</p>
+
+
 ### Hi there 👋
 
 <!--
