@@ -28,15 +28,15 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/PranavKale03" target="_blank">
+<a href="https://github.com/01mohitjangid" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
                                                                                                                                                   
-<a href="mailto:pranavmkale99@gmail.com" target="_blank">
+<a href="mailto:01mohitjangid@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
                                                                                                    
-<a href="https://wa.me/7030240803" target="_blank">
+<a href="https://wa.me/8619057525" target="_blank">
 <img src="https://img.shields.io/badge/whatsapp-%2324292e.svg?&style=for-the-badge&logo=whatsapp&logoColor=green" />
 </a>
                                                                                                    
