@@ -23,6 +23,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently studying Bachlor's of computer application from Manipal University, jaipur, Rajasthan
+- 💻 I’m a passionate **coder and learner**.
+- 🔭 I really love❤️ to explore ** new thing **.
+- 🔭 I am currently working on **integration of web development
+- 💬 So you can ask me about new **coding **.
+
+
+<h1>My Skills 🛠</h1>
+
+<p align="center">
+  
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Git" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+</p>
+
+
+## Connect with me 🤝 
+
 <div align="center">
  <a href=https://www.linkedin.com/mohit-jangid-2735/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
