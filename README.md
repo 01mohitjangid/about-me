@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=01mohitjangid&border_radius=40%&show_icons=true&hide_border=true&theme=algolia">
+</p>
+
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?&user=01mohitjangid">
+</p>
+
 
 - 🔭 I’m currently studying Bachlor's of computer application from Manipal University, jaipur, Rajasthan
 - 💻 I’m a passionate **coder and learner**.
