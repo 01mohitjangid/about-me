@@ -22,6 +22,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+ <a href=https://www.linkedin.com/in/mohit-jangid-2735/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/PranavKale03" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+                                                                                                                                                  
+<a href="mailto:pranavmkale99@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+                                                                                                   
+<a href="https://wa.me/7030240803" target="_blank">
+<img src="https://img.shields.io/badge/whatsapp-%2324292e.svg?&style=for-the-badge&logo=whatsapp&logoColor=green" />
+</a>
+                                                                                                   
+</div>
+                                                                                                                 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="center">
